@@ -1,2 +1,2 @@
 recommendation system
-restricted Boltzmann Machine/ Probabilistic maxtrix factorization
+restricted neural collabrative filteringBoltzmann Machine/ Probabilistic maxtrix factorization
